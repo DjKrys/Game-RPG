@@ -1,0 +1,7 @@
+h         069				HP
+l         001				level
+t         069				strength
+m         069				mana
+f         069				force
+s         Kitchen			state
+

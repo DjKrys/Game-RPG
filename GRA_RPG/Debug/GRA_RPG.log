@@ -1,0 +1,7 @@
+﻿  Game.cpp
+d:\laboratoria\jp\gra_rpg\gra_rpg\gra_rpg\game.cpp(170): warning C4930: "adapter_item_NPC info(void)": prototypowana funkcja nie została wywołana (czy definicja zmiennej była zamierzona?)
+  LocationMachine.cpp
+  Source.cpp
+  adapter_item_NPC.cpp
+  Generowanie kodu...
+  GRA_RPG.vcxproj -> D:\Laboratoria\JP\GRA_RPG\GRA_RPG\Debug\GRA_RPG.exe
